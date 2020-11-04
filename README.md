@@ -1,2 +1,3 @@
 # manga-id
-# Simple project for manga author classification
+
+Simple project for manga author classification
